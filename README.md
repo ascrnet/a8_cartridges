@@ -45,7 +45,7 @@ example of a8 cartridge formats, for technical details of the different types of
 | 46 | 800/XL/XE |    4 | Blizzard 4 KB cartridge                       |   |
 | 47 | 800/XL/XE |   32 | AST 32 KB cartridge                           |   |
 | 48 | 800/XL/XE |   64 | Atrax SDX 64 KB cartridge                     | No |
-| 49 | 800/XL/XE |  128 | Atrax SDX 128 KB cartridge                    |   |
+| 49 | 800/XL/XE |  128 | Atrax SDX 128 KB cartridge                    | No |
 | 50 | 800/XL/XE |   64 | Turbosoft 64 KB cartridge                     |   |
 | 51 | 800/XL/XE |  128 | Turbosoft 128 KB cartridge                    |   |
 | 52 | 800/XL/XE |   32 | Ultracart 32 KB cartridge                     |   |
