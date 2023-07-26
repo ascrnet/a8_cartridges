@@ -19,12 +19,12 @@ example of a8 cartridge formats, for technical details of the different types of
 | 18 | 800/XL/XE |   40 | Bounty Bob Strikes Back 40 KB cartridge       |   |
 | 21 |    800    |    8 | Right slot 8 KB cartridge                     |   |
 | 22 | 800/XL/XE |   32 | 32 KB Williams cartridge                      |   |
-| 23 | 800/XL/XE |  256 | XEGS 256 KB cartridge                         |   |
-| 24 | 800/XL/XE |  512 | XEGS 512 KB cartridge                         |   |
-| 25 | 800/XL/XE | 1024 | XEGS 1 MB cartridge                           |   |
-| 26 | 800/XL/XE |   16 | MegaCart 16 KB cartridge                      |   |
-| 27 | 800/XL/XE |   32 | MegaCart 32 KB cartridge                      |   |
-| 28 | 800/XL/XE |   64 | MegaCart 64 KB cartridge                      |   |
+| 23 | 800/XL/XE |  256 | XEGS 256 KB cartridge                         | No  |
+| 24 | 800/XL/XE |  512 | XEGS 512 KB cartridge                         | No  |
+| 25 | 800/XL/XE | 1024 | XEGS 1 MB cartridge                           | No  |
+| 26 | 800/XL/XE |   16 | MegaCart 16 KB cartridge                      | No  |
+| 27 | 800/XL/XE |   32 | MegaCart 32 KB cartridge                      | No  |
+| 28 | 800/XL/XE |   64 | MegaCart 64 KB cartridge                      | No  |
 | 29 | 800/XL/XE |  128 | MegaCart 128 KB cartridge                     |   |
 | 30 | 800/XL/XE |  256 | MegaCart 256 KB cartridge                     |   |
 | 31 | 800/XL/XE |  512 | MegaCart 512 KB cartridge                     |   |
