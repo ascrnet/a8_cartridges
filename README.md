@@ -42,7 +42,7 @@ example of a8 cartridge formats, for technical details of the different types of
 | 43 | 800/XL/XE |  128 | SpartaDOS X 128 KB cartridge                  |    |
 | 44 | 800/XL/XE |    8 | OSS 8 KB cartridge                            |    |
 | 45 | 800/XL/XE |   16 | OSS two chip 16 KB cartridge (043M)           |    |
-| 46 | 800/XL/XE |    4 | Blizzard 4 KB cartridge                       |    |
+| 46 | 800/XL/XE |    4 | Blizzard 4 KB cartridge                       | No |
 | 47 | 800/XL/XE |   32 | AST 32 KB cartridge                           |    |
 | 48 | 800/XL/XE |   64 | Atrax SDX 64 KB cartridge                     | No |
 | 49 | 800/XL/XE |  128 | Atrax SDX 128 KB cartridge                    | No |
@@ -56,7 +56,7 @@ example of a8 cartridge formats, for technical details of the different types of
 | 57 | 800/XL/XE |    2 | Standard 2 KB cartridge                       |    |
 | 58 | 800/XL/XE |    4 | Standard 4 KB cartridge                       |    |
 | 59 |    800    |    4 | Right slot 4 KB cartridge                     | No |
-| 60 | 800/XL/XE |   32 | Blizzard 32 KB cartridge                      |    |
+| 60 | 800/XL/XE |   32 | Blizzard 32 KB cartridge                      | No |
 | 61 | 800/XL/XE | 2048 | MegaMax 2 MB cartridge                        |    |
 | 62 | 800/XL/XE | 128M | The!Cart 128 MB cartridge                     |    |
 | 63 | 800/XL/XE | 4096 | Flash MegaCart 4 MB cartridge                 |    |
