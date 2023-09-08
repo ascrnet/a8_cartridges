@@ -6,7 +6,7 @@ example of a8 cartridge formats, for technical details of the different types of
 |  1 | 800/XL/XE |    8 | Standard 8 KB cartridge                       |    |
 |  2 | 800/XL/XE |   16 | Standard 16 KB cartridge                      |    |
 |  3 | 800/XL/XE |   16 | OSS two chip 16 KB cartridge (034M)           |    |
-|  5 | 800/XL/XE |   32 | DB 32 KB cartridge                            | No |
+|  5 | 800/XL/XE |   32 | DB 32 KB cartridge                            |    |
 |  8 | 800/XL/XE |   64 | 64 KB Williams cartridge                      |    |
 |  9 | 800/XL/XE |   64 | Express 64 KB cartridge                       |    |
 | 10 | 800/XL/XE |   64 | Diamond 64 KB cartridge                       |    |
