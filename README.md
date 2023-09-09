@@ -42,7 +42,7 @@ example of a8 cartridge formats, for technical details of the different types of
 | 43 | 800/XL/XE |  128 | SpartaDOS X 128 KB cartridge                  |    |
 | 44 | 800/XL/XE |    8 | OSS 8 KB cartridge                            |    |
 | 45 | 800/XL/XE |   16 | OSS two chip 16 KB cartridge (043M)           |    |
-| 46 | 800/XL/XE |    4 | Blizzard 4 KB cartridge                       | No |
+| 46 | 800/XL/XE |    4 | Blizzard 4 KB cartridge                       |    |
 | 47 | 800/XL/XE |   32 | AST 32 KB cartridge                           |    |
 | 48 | 800/XL/XE |   64 | Atrax SDX 64 KB cartridge                     | No |
 | 49 | 800/XL/XE |  128 | Atrax SDX 128 KB cartridge                    | No |
