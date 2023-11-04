@@ -72,6 +72,6 @@ example of a8 cartridge formats, for technical details of the different types of
 | 77 | 800/XL/XE |    8 | MIO diagnostics 8KB cartridge                 | No |
 | 78 | 800/XL/XE |    8 | Telelink II cartridge                         |    |
 | 79 | 800/XL/XE |   16 | Pronto cartridge                              |    |
-| 80 | 800/XL/XE |   64 | JRC64 cartridge (linear)                      | No |
-| 81 | 800/XL/XE |   64 | MDDOS cartridge                               | No |
-| 82 | 800/XL/XE |   32 | COS32 cartridge                               | No |
+| 80 | 800/XL/XE |   64 | JRC64 cartridge                               |    |
+| 81 | 800/XL/XE |   64 | MDDOS cartridge                               |    |
+| 82 | 800/XL/XE |   32 | COS32 cartridge                               |    |
