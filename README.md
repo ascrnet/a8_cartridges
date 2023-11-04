@@ -68,3 +68,10 @@ example of a8 cartridge formats, for technical details of the different types of
 | 69 | 800/XL/XE |   32 | aDawliah 32 KB cartridge                      |    |
 | 70 | 800/XL/XE |   64 | aDawliah 64 KB cartridge                      | No |
 | 75 | 800/XL/XE | 1024 | Atarimax 1 MB Flash cartridge (new)           |    |
+| 76 | 800/XL/XE |   16 | 16 KB Williams cartridge                      | No |
+| 77 | 800/XL/XE |    8 | MIO diagnostics 8KB cartridge                 | No |
+| 78 | 800/XL/XE |    8 | Telelink II cartridge                         |    |
+| 79 | 800/XL/XE |   16 | Pronto cartridge                              |    |
+| 80 | 800/XL/XE |   64 | JRC64 cartridge (linear)                      | No |
+| 81 | 800/XL/XE |   64 | MDDOS cartridge                               | No |
+| 82 | 800/XL/XE |   32 | COS32 cartridge                               | No |
