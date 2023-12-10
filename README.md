@@ -59,7 +59,7 @@ example of a8 cartridge formats, for technical details of the different types of
 | 60 | 800/XL/XE |   32 | Blizzard 32 KB cartridge                      | No |
 | 61 | 800/XL/XE | 2048 | MegaMax 2 MB cartridge                        |    |
 | 62 | 800/XL/XE | 128M | The!Cart 128 MB cartridge                     |    |
-| 63 | 800/XL/XE | 4096 | Flash MegaCart 4 MB cartridge                 |    |
+| 63 | 800/XL/XE | 4096 | Flash MegaCart 4 MB cartridge                 | No |
 | 64 | 800/XL/XE | 2048 | MegaCart 2 MB cartridge                       | No |
 | 65 | 800/XL/XE |  32M | The!Cart 32 MB cartridge                      |    |
 | 66 | 800/XL/XE |  64M | The!Cart 64 MB cartridge                      |    |
