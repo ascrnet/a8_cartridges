@@ -75,7 +75,7 @@ example of a8 cartridge formats, for technical details of the different types of
 | 80 | 800/XL/XE |   64 | JRC64 cartridge                               |    |
 | 81 | 800/XL/XE |   64 | MDDOS cartridge                               |    |
 | 82 | 800/XL/XE |   32 | COS32 cartridge                               |    |
-| 83 | 800/XL/XE | 1024 | SIC+ 1024 KB cartridge                        | No |
+| 83 | 800/XL/XE | 1024 | SIC+ 1024 KB cartridge                        |    |
 | 84 | 800/XL/XE | 1024 | Corina 1M+8K EEPROM                           | No |
 | 85 | 800/XL/XE |  512 | Corina 512K + 512K SRAM + 8K EEPROM           | No |
 | 86 | 800/XL/XE |    8 | XE Multicart (8KB)                            | No |
