@@ -105,4 +105,4 @@ example of a8 cartridge formats, for technical details of the different types of
 |110 | 800/XL/XE |  512 | J(atari)Cart 512 KB                           |    |
 |111 | 800/XL/XE | 1024 | J(atari)Cart 1024 KB                          |    |
 |112 | 800/XL/XE |  512 | DCart 512 KB                                  |    |        
-|160 | 800/XL/XE |   64 |JRC64 cartridge (interleaved)                  | No |
+|160 | 800/XL/XE |   64 |JRC64 cartridge (interleaved)                  |    |
