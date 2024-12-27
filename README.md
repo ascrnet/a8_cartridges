@@ -75,3 +75,34 @@ example of a8 cartridge formats, for technical details of the different types of
 | 80 | 800/XL/XE |   64 | JRC64 cartridge                               |    |
 | 81 | 800/XL/XE |   64 | MDDOS cartridge                               |    |
 | 82 | 800/XL/XE |   32 | COS32 cartridge                               |    |
+| 83 | 800/XL/XE | 1024 | SIC+ 1024 KB cartridge                        | No |
+| 84 | 800/XL/XE | 1024 | Corina 1M+8K EEPROM                           | No |
+| 85 | 800/XL/XE |  512 | Corina 512K + 512K SRAM + 8K EEPROM           | No |
+| 86 | 800/XL/XE |    8 | XE Multicart (8KB)                            | No |
+| 87 | 800/XL/XE |   16 | XE Multicart (16KB)                           | No |
+| 88 | 800/XL/XE |   32 | XE Multicart (32KB)                           | No |
+| 89 | 800/XL/XE |   64 | XE Multicart (64KB)                           | No |
+| 90 | 800/XL/XE |  128 | XE Multicart (128KB)                          | No |
+| 91 | 800/XL/XE |  256 | XE Multicart (256KB)                          | No |
+| 92 | 800/XL/XE |  512 | XE Multicart (512KB)                          | No |
+| 93 | 800/XL/XE | 1024 | XE Multicart (1024KB)                         | No |
+| 94 | 800/XL/XE |   64 | Ram-Cart 64 KB cartridge                      | No |
+| 95 | 800/XL/XE |  128 | Ram-Cart 128 KB cartridge                     | No |
+| 96 | 800/XL/XE |  256 | Double Ram-Cart 2x128/256 KB cartridge        | No |
+| 97 | 800/XL/XE |   1M | Ram-Cart 1 MB cartridge                       | No |
+| 98 | 800/XL/XE |   2M | Ram-Cart 2 MB cartridge                       | No |
+| 99 | 800/XL/XE |   4M | Ram-Cart 4 MB cartridge                       | No |
+|100 | 800/XL/XE |   8M | Ram-Cart 8 MB cartridge                       | No |
+|101 | 800/XL/XE |  16M | Ram-Cart 16 MB cartridge                      | No |
+|102 | 800/XL/XE |  32M | Ram-Cart 32 MB cartridge                      | No |
+|103 | 800/XL/XE |   32 | SiDiCar 32 KB cartridge                       | No |
+|104 | 800/XL/XE |    8 | J(atari)Cart8(kB)                             |    |
+|105 | 800/XL/XE |   16 | J(atari)Cart16(kB)                            |    |
+|106 | 800/XL/XE |   32 | J(atari)Cart32(kB)                            |    |
+|107 | 800/XL/XE |   64 | J(atari)Cart64(kB)                            |    |
+|108 | 800/XL/XE |  128 | J(atari)Cart128(kB)                           |    |
+|109 | 800/XL/XE |  256 | J(atari)Cart256(kB)                           |    |
+|110 | 800/XL/XE |  512 | J(atari)Cart512(kB)                           |    |
+|111 | 800/XL/XE | 1024 | J(atari)Cart1024(kB)                          |    |
+|112 | 800/XL/XE |  512 | DCart 512 KB                                  |    |        
+|160 | 800/XL/XE |   64 |JRC64 cartridge (interleaved)                  | No |
