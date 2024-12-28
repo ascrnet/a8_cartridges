@@ -50,9 +50,9 @@ example of a8 cartridge formats, for technical details of the different types of
 | 51 | 800/XL/XE |  128 | Turbosoft 128 KB cartridge                    |    |
 | 52 | 800/XL/XE |   32 | Ultracart 32 KB cartridge                     |    |
 | 53 | 800/XL/XE |    8 | Low bank 8 KB cartridge                       | No |
-| 54 | 800/XL/XE |  128 | SIC! 128 KB cartridge                         | No |
-| 55 | 800/XL/XE |  256 | SIC! 256 KB cartridge                         | No |
-| 56 | 800/XL/XE |  512 | SIC! 512 KB cartridge                         | No |
+| 54 | 800/XL/XE |  128 | SIC! 128 KB cartridge                         |    |
+| 55 | 800/XL/XE |  256 | SIC! 256 KB cartridge                         |    |
+| 56 | 800/XL/XE |  512 | SIC! 512 KB cartridge                         |    |
 | 57 | 800/XL/XE |    2 | Standard 2 KB cartridge                       |    |
 | 58 | 800/XL/XE |    4 | Standard 4 KB cartridge                       |    |
 | 59 |    800    |    4 | Right slot 4 KB cartridge                     | No |
