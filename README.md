@@ -55,7 +55,7 @@ example of a8 cartridge formats, for technical details of the different types of
 | 56 | 800/XL/XE |  512 | SIC! 512 KB cartridge                         |    |
 | 57 | 800/XL/XE |    2 | Standard 2 KB cartridge                       |    |
 | 58 | 800/XL/XE |    4 | Standard 4 KB cartridge                       |    |
-| 59 |    800    |    4 | Right slot 4 KB cartridge                     | No |
+| 59 |    800    |    4 | Right slot 4 KB cartridge                     |    |
 | 60 | 800/XL/XE |   32 | Blizzard 32 KB cartridge                      | No |
 | 61 | 800/XL/XE | 2048 | MegaMax 2 MB cartridge                        |    |
 | 62 | 800/XL/XE | 128M | The!Cart 128 MB cartridge                     |    |
