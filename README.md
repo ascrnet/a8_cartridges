@@ -1,5 +1,5 @@
 # Atari Cartridges
-example of a8 cartridge formats, for technical details of the different types of swiching read the atari800 [documentation](https://github.com/atari800/atari800/blob/master/DOC/cart.txt).
+example of A8 cartridge formats, for technical details of the different types of swiching read the atari800 [documentation](https://github.com/atari800/atari800/blob/master/DOC/cart.txt).
 
 | Id | Machine | Size | Name | Found |
 | --- | --- | --- | --- | --- |
@@ -78,14 +78,14 @@ example of a8 cartridge formats, for technical details of the different types of
 | 83 | 800/XL/XE | 1024 | SIC+ 1024 KB cartridge                        |    |
 | 84 | 800/XL/XE | 1024 | Corina 1M+8K EEPROM                           | No |
 | 85 | 800/XL/XE |  512 | Corina 512K + 512K SRAM + 8K EEPROM           | No |
-| 86 | 800/XL/XE |    8 | XE Multicart (8KB)                            | No |
-| 87 | 800/XL/XE |   16 | XE Multicart (16KB)                           | No |
-| 88 | 800/XL/XE |   32 | XE Multicart (32KB)                           | No |
-| 89 | 800/XL/XE |   64 | XE Multicart (64KB)                           | No |
-| 90 | 800/XL/XE |  128 | XE Multicart (128KB)                          | No |
-| 91 | 800/XL/XE |  256 | XE Multicart (256KB)                          | No |
-| 92 | 800/XL/XE |  512 | XE Multicart (512KB)                          | No |
-| 93 | 800/XL/XE | 1024 | XE Multicart (1024KB)                         | No |
+| 86 | 800/XL/XE |    8 | XE Multicart (8KB)                            |    |
+| 87 | 800/XL/XE |   16 | XE Multicart (16KB)                           |    |
+| 88 | 800/XL/XE |   32 | XE Multicart (32KB)                           |    |
+| 89 | 800/XL/XE |   64 | XE Multicart (64KB)                           |    |
+| 90 | 800/XL/XE |  128 | XE Multicart (128KB)                          |    |
+| 91 | 800/XL/XE |  256 | XE Multicart (256KB)                          |    |
+| 92 | 800/XL/XE |  512 | XE Multicart (512KB)                          |    |
+| 93 | 800/XL/XE | 1024 | XE Multicart (1024KB)                         |    |
 | 94 | 800/XL/XE |   64 | Ram-Cart 64 KB cartridge                      | No |
 | 95 | 800/XL/XE |  128 | Ram-Cart 128 KB cartridge                     | No |
 | 96 | 800/XL/XE |  256 | Double Ram-Cart 2x128/256 KB cartridge        | No |
